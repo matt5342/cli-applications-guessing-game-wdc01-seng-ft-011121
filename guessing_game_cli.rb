@@ -1,7 +1,7 @@
 
 run_guessing_game
 
-  rand 1..6
+  num = rand(1..6)
 
 
 
