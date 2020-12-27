@@ -1,1 +1,9 @@
-# Code your solution here!
+
+run_guessing_game
+
+  rand 1..6
+
+
+
+
+end
